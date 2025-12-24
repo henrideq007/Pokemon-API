@@ -1,5 +1,5 @@
-# Weather API 
-The idea of this project is to get the weather data live from this website: https://www.visualcrossing.com/weather-query-builder/
+# Pokemon API 
+The idea of this project is to get the Pokemon data live from this website:(https://pokeapi.co/docs/v2#pokemon)
 
 We've created 3 functions:
 - Random: GET a random pokemon on the list.
@@ -16,5 +16,6 @@ Improvements points:
 - Improve speed of results
 - Create a nicer interface
 - Add more complex calculations in the model ? 
+
 
 Press Crtl + C to stop the program running
